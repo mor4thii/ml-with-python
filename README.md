@@ -15,11 +15,10 @@ conda config --env --add channels conda-forge
 ```
 
 ```bash
-pip install notebook numpy
+pip install notebook numpy scipy
 ```
 
 ## IDE
 We use [Visual Studio Code](https://code.visualstudio.com/) to work with [Jupyter Notebooks](https://jupyter.org/).
 
 Make sure to select the conda environment created above in VS Code.
-
