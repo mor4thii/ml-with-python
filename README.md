@@ -15,7 +15,7 @@ conda config --env --add channels conda-forge
 ```
 
 ```bash
-pip install notebook numpy scipy scikit-learn
+pip install notebook numpy scipy scikit-learn matplotlib
 ```
 
 ## IDE
